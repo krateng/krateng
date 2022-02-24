@@ -1,16 +1,22 @@
-### Hi there 👋
+# Production-ready software
 
-<!--
-**krateng/krateng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Self-hosted servers
 
-Here are some ideas to get you started:
+* [maloja](https://github.com/krateng/maloja)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Command line productivity tools
+
+* [dlvh](https://github.com/krateng/dlvh)
+* [mumema](https://github.com/krateng/mumema)
+* [fsclean](https://github.com/krateng/fsclean)
+* [proxymloxy](https://github.com/krateng/proxymloxy)
+
+## Client-side Web Applications
+
+* [startpage](https://github.com/krateng/startpage)
+
+## Libraries
+
+* [doreah](https://github.com/krateng/doreah)
+* [nimrodel](https://github.com/krateng/nimrodel)
+* [neopolitan](https://github.com/krateng/neopolitan)

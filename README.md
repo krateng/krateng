@@ -1,4 +1,4 @@
-# Production-ready software
+These are my projects you might reasonably be interested in - everything else is just experimental!
 
 ## Self-hosted servers
 

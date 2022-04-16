@@ -14,9 +14,3 @@ These are my projects you might reasonably be interested in - everything else is
 ## Client-side Web Applications
 
 * [startpage](https://github.com/krateng/startpage) - Personal browser startpage with quick, boilerplate-free configuration
-
-## Libraries
-
-* [doreah](https://github.com/krateng/doreah) - Python library for commonly used functionality
-* [nimrodel](https://github.com/krateng/nimrodel) - Python API framework
-* [neopolitan](https://github.com/krateng/neopolitan) - Small JS library
